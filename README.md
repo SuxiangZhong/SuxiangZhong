@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SuxiangZhong
 - 👀 I’m interested in python in finance and machine learning
-- 🌱 I’m currently learning mathematics with finance
+- 🌱 I’m currently learning financial engineering
 - 💞️ I’m looking to collaborate on python studying for now
-- 📫 How to reach me :sgszhon2@liverpool.ac.uk
+- 📫 How to reach me :sz4702@nyu.edu
 
 <!---
 SuxiangZhong/SuxiangZhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
